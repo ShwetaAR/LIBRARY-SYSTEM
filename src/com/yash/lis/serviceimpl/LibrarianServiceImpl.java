@@ -45,7 +45,8 @@ public class LibrarianServiceImpl extends EmployeeServiceImpl implements Librari
 	/**
 	 * addBook method is used to add book to repository, and it also checks if
 	 * book is already present or not. if it is already there then it will
-	 * display output as "Book Already Exist" The existing condition is checked
+	 * display output as "Book Already Exist" 
+          * my changes for master
 	 * by book name
 	 * 
 	 * @see BookRepositoryImpl
